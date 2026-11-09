@@ -1,0 +1,3 @@
+expense_id,trip_id,category,amount
+201,1,транспорт,1000
+202,99,питание,500
